@@ -1,0 +1,288 @@
+
+
+@font-face {
+    font-family: "morganite";
+    src: url(Morganite-Black.ttf);
+}
+
+@font-face {
+    font-family: "extrabold";
+    src: url(Morganite-ExtraBold.ttf);
+}
+
+
+body {
+    background-image: url(cropped-3840-2160-1037382.png);
+
+}
+
+body:hover {
+    cursor: default;
+}
+
+.inner-body{
+    background-image: url(download\ \(1\).jpeg);
+    border-radius: 8px;
+    position: absolute;
+    width: 550px;
+    height: 600px;
+    opacity: 100%;
+    top: 13%;
+    left: 32%;
+}
+
+.name {
+    font-size: 100px;
+    position: absolute;
+    line-height: 10px;
+    top: 0%;
+    left: 8%;
+    font-family: "morganite";
+}
+
+.age {
+    position: absolute;
+    top: 20%;
+    left: 8%;
+    font-size: 37px;
+    font-family: "morganite";    
+}
+
+.she {
+    position: absolute;
+    top: 20.55%;
+    left: 13.5%;
+    font-size: 35px;
+    font-family: "morganite";
+}
+
+.aries {
+    position: absolute;
+    top: 20.55%;
+    left: 27.5%;
+    font-size: 35px;
+    font-family: "morganite";
+}
+
+.editor{
+    position: absolute;
+    top: 20.55%;
+    left: 36.5%;
+    font-size: 35px;
+    font-family: "morganite";
+}
+
+
+.j1 {
+    font-size: 35px;
+    position: absolute;
+    line-height: 10px;
+    top: 40%;
+    right: 1%;
+    font-weight: bold;
+    margin-top: 0;
+}
+
+.j2 {
+    font-size: 35px;
+    position: absolute;
+    line-height: 10px;
+    top: 46.5%;
+    right: 1%;
+    font-weight: bold;
+    margin-top: 0;
+}
+
+.j3 {
+    font-size: 35px;
+    position: absolute;
+    line-height: 10px;
+    top: 52.5%;
+    right: 1%;
+    font-weight: bold;
+    margin-top: 0;
+}
+
+.j4 {
+    font-size: 35px;
+    position: absolute;
+    line-height: 10px;
+    top: 57.5%;
+    right: 1%;
+    font-weight: bold;
+    margin-top: 0;
+}
+
+.poem {
+    position: absolute;
+    top: 30%;
+    left: 6%;
+    font-size: 30px;
+    font-family: "morganite";
+    
+}
+
+.poem2 {
+    position: absolute;
+    top: 35%;
+    left: 8%;
+    font-size: 30px;
+    font-family: "morganite";
+    
+    
+}
+
+.poem3 {
+    position: absolute;
+    top: 40%;
+    left: 8%;
+    font-size: 30px;
+    font-family: "morganite";
+    
+}
+
+.poem4 {
+    position: absolute;
+    top: 45%;
+    left: 8%;
+    font-size: 30px;
+    font-family: "morganite";
+    
+}
+
+.poem5 {
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    font-size: 30px;
+    font-family: "morganite";
+    
+}
+
+.poem6 {
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    font-size: 30px;
+    font-family: "morganite";
+}
+
+.poem7 {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    font-size: 30px;
+    font-family: "morganite";
+   
+}
+
+.poem8 {
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    font-size: 30px;
+    font-family: "morganite";
+    
+}
+
+.insta {
+    background-color: rgba(240, 248, 255, 0);
+    border: 0;
+    color: #000000;
+    font-size: 32px;
+    margin-top: 0;
+    margin-right: 0;
+    position: absolute;
+    top: 30%;
+    right: 0.5%;
+    transition: color 0.2s, font-size 0.2s;
+    
+}
+
+.insta:hover {
+    cursor: pointer;
+    color: rgb(0, 0, 0);
+    font-size: 34px;
+}
+
+.twitter {
+    background-color: rgba(240, 248, 255, 0);
+    border: 0;
+    color: #000000;
+    font-size: 32px;
+    margin-top: 0;
+    margin-right: 0;
+    position: absolute;
+    top: 62%;
+    right: 0.5%;
+    transition: color 0.2s, font-size 0.2s;
+    
+}
+
+.twitter:hover {
+    cursor: pointer;
+    color: rgb(0, 0, 0);
+    font-size: 34px;
+}
+
+.pintrest {
+    background-color: rgba(240, 248, 255, 0);
+    border: 0;
+    color: #000000;
+    font-size: 32px;
+    margin-top: 0;
+    margin-right: 0;
+    position: absolute;
+    top: 68%;
+    right: 0.5%;
+    transition: color 0.2s, font-size 0.2s;
+    
+}
+
+.pintrest:hover {
+    cursor: pointer;
+    color: rgb(0, 0, 0);
+    font-size: 34px;
+}
+
+.spotify {
+    background-color: rgba(240, 248, 255, 0);
+    border: 0;
+    color: #000000;
+    font-size: 32px;
+    margin-top: 0;
+    margin-right: 0;
+    position: absolute;
+    top: 23.5%;
+    right: 0.5%;
+    transition: color 0.2s, font-size 0.2s;
+    
+}
+
+.spotify:hover {
+    cursor: pointer;
+    color: rgb(0, 0, 0);
+    font-size: 34px;
+}
+
+.sign {
+    background-color: rgba(13, 13, 13, 0);
+    color: rgb(60,60,62);
+    font-size: 15px;
+    position: absolute;
+    left: 1%;
+    bottom: 1%;
+    font-family: 'dagsen';
+    border-color: rgba(60, 60, 62, 0);
+    transition: font-size 0.2s;
+    
+}
+
+.sign:hover{
+    cursor: pointer;
+    font-size: 16px ;
+
+}
+
+
+
