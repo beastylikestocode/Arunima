@@ -1,8 +1,4 @@
-@font-face {
-    font-family: "dagsen";
-    src: url(Dagsen_Black.otf) format('opentype'),
-         url(Dagsen_Black.ttf) format('truetype');
-}
+
 
 @font-face {
     font-family: "morganite";
@@ -196,9 +192,11 @@ body:hover {
     font-size: 32px;
     margin-top: 0;
     margin-right: 0;
+    font-family: "morganite";
+    letter-spacing: 1px;
     position: absolute;
-    top: 30%;
-    right: 0.5%;
+    top: 59%;
+    left: 7%;
     transition: color 0.2s, font-size 0.2s;
     
 }
@@ -213,12 +211,14 @@ body:hover {
     background-color: rgba(240, 248, 255, 0);
     border: 0;
     color: #000000;
+    font-family: "morganite";
+    letter-spacing: 1px;
     font-size: 32px;
     margin-top: 0;
     margin-right: 0;
     position: absolute;
-    top: 62%;
-    right: 0.5%;
+    top: 59%;
+    left: 28%;
     transition: color 0.2s, font-size 0.2s;
     
 }
@@ -233,12 +233,14 @@ body:hover {
     background-color: rgba(240, 248, 255, 0);
     border: 0;
     color: #000000;
+    font-family: "morganite";
+    letter-spacing: 1px;
     font-size: 32px;
     margin-top: 0;
     margin-right: 0;
     position: absolute;
-    top: 68%;
-    right: 0.5%;
+    top: 59%;
+    left: 45%;
     transition: color 0.2s, font-size 0.2s;
     
 }
@@ -253,12 +255,14 @@ body:hover {
     background-color: rgba(240, 248, 255, 0);
     border: 0;
     color: #000000;
+    font-family: "morganite";
+    letter-spacing: 1px;
     font-size: 32px;
     margin-top: 0;
     margin-right: 0;
     position: absolute;
-    top: 23.5%;
-    right: 0.5%;
+    top: 59%;
+    left: 63%;
     transition: color 0.2s, font-size 0.2s;
     
 }
