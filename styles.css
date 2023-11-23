@@ -29,9 +29,9 @@ body:hover {
     border-radius: 8px;
     position: absolute;
     width: 550px;
-    height: 600px;
+    height: 400px;
     opacity: 100%;
-    top: 13%;
+    top: 23%;
     left: 32%;
 }
 
@@ -46,7 +46,7 @@ body:hover {
 
 .age {
     position: absolute;
-    top: 20%;
+    top: 32%;
     left: 8%;
     font-size: 37px;
     font-family: "morganite";    
@@ -54,7 +54,7 @@ body:hover {
 
 .she {
     position: absolute;
-    top: 20.55%;
+    top: 32.60%;
     left: 13.5%;
     font-size: 35px;
     font-family: "morganite";
@@ -62,7 +62,7 @@ body:hover {
 
 .aries {
     position: absolute;
-    top: 20.55%;
+    top: 32.60%;
     left: 27.5%;
     font-size: 35px;
     font-family: "morganite";
@@ -70,7 +70,7 @@ body:hover {
 
 .editor{
     position: absolute;
-    top: 20.55%;
+    top: 32.60%;
     left: 36.5%;
     font-size: 35px;
     font-family: "morganite";
@@ -121,7 +121,7 @@ body:hover {
     position: absolute;
     top: 30%;
     left: 6%;
-    font-size: 30px;
+    font-size: 40px;
     font-family: "morganite";
     
 }
@@ -193,13 +193,13 @@ body:hover {
     background-color: rgba(240, 248, 255, 0);
     border: 0;
     color: #000000;
-    font-size: 32px;
+    font-size: 35px;
     margin-top: 0;
     margin-right: 0;
     font-family: "morganite";
     letter-spacing: 1px;
     position: absolute;
-    top: 59%;
+    top: 70%;
     left: 7%;
     transition: color 0.2s, font-size 0.2s;
     
@@ -217,12 +217,12 @@ body:hover {
     color: #000000;
     font-family: "morganite";
     letter-spacing: 1px;
-    font-size: 32px;
+    font-size: 35px;
     margin-top: 0;
     margin-right: 0;
     position: absolute;
-    top: 59%;
-    left: 28%;
+    top: 70%;
+    left: 29%;
     transition: color 0.2s, font-size 0.2s;
     
 }
@@ -239,12 +239,12 @@ body:hover {
     color: #000000;
     font-family: "morganite";
     letter-spacing: 1px;
-    font-size: 32px;
+    font-size: 35px;
     margin-top: 0;
     margin-right: 0;
     position: absolute;
-    top: 59%;
-    left: 45%;
+    top: 70%;
+    left: 46%;
     transition: color 0.2s, font-size 0.2s;
     
 }
@@ -261,12 +261,12 @@ body:hover {
     color: #000000;
     font-family: "morganite";
     letter-spacing: 1px;
-    font-size: 32px;
+    font-size: 35px;
     margin-top: 0;
     margin-right: 0;
     position: absolute;
-    top: 59%;
-    left: 63%;
+    top: 70%;
+    left: 64%;
     transition: color 0.2s, font-size 0.2s;
     
 }
@@ -279,7 +279,7 @@ body:hover {
 
 .sign {
     background-color: rgba(13, 13, 13, 0);
-    color: rgb(60,60,62);
+    color: rgb(15, 14, 14);
     font-size: 15px;
     position: absolute;
     left: 1%;
@@ -294,6 +294,14 @@ body:hover {
     cursor: pointer;
     font-size: 16px ;
 
+}
+
+.bsd{
+    position: absolute;
+    top: 47%;
+    left: 8.3%;
+    font-size: 31px;
+    font-family: "morganite";
 }
 
 
